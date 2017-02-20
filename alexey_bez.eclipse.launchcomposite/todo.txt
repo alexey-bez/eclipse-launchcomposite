@@ -1,0 +1,10 @@
+Composite launch itself should not appear in list of runs
+Extract launch configuration model
+Handle and report errors during launch properly
+Handle possible launch configuration recursion
+Strings
+Split package on UI and core components
+Maven
+Create configuration UI
+Create show case (echo server)
+Composite configuration should be able to handle server startup delay  
